@@ -9,7 +9,8 @@ A complete **MySQL practice project** simulating an online bookstore’s databas
 Covers everything from **table creation** to **advanced analytical queries** on books, customers, and orders.
 
 ---
-
+4
+---
 ### 🚀 What’s Inside?
 
 * 🛠 **Tables:** `Books`, `Customers`, `Orders` – fully linked with relationships
